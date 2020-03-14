@@ -93,3 +93,4 @@ sw.*
 
 # Netlify
 .netlify
+static/ogp.psd
