@@ -94,3 +94,5 @@ sw.*
 # Netlify
 .netlify
 static/ogp.psd
+static/apple-touch-icon-precomposed.psd
+static/icon.psd
