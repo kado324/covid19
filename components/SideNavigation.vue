@@ -51,7 +51,7 @@
             <img src="/line.png" alt="LINE" />
           </a>
           <a
-            href="https://twitter.com/tokyo_bousai"
+            href="https://twitter.com/Hyogo_bousai"
             target="_blank"
             rel="noopener"
           >
@@ -64,7 +64,7 @@
           >
             <img src="/facebook.png" alt="Facebook" />
           </a>
-          <a href="https://github.com/tokyo-metropolitan-gov/covid19">
+          <a href="https://github.com/Hyogo-metropolitan-gov/covid19">
             <img src="/github.png" alt="GitHub" />
           </a>
         </div>
@@ -80,7 +80,7 @@
           </a>
           {{ $t('の下に提供されています。') }}
           <br />
-          2020 Tokyo Metropolitan Government
+          2020 Hyogo Metropolitan Government
         </small>
       </div>
     </div>
@@ -113,17 +113,17 @@
   "en": {
     "サイドメニュー項目を開く": "Open side menu items",
     "サイドメニュー項目を閉じる": "Close side menu items",
-    "兵庫県": "Tokyo",
+    "兵庫県": "Hyogo",
     "新型コロナウイルス感染症": "COVID-19",
     "対策サイト": "Task Force website",
-    "県内の最新感染動向": "Latest updates on COVID-19 in Tokyo",
+    "県内の最新感染動向": "Latest updates on COVID-19 in Hyogo",
     "新型コロナウイルス感染症が心配なときに": "If you suspect having COVID-19",
     "お子様をお持ちの皆様へ": "For families with children",
-    "県民の皆様へ": "For residents in Tokyo (in Japanese)",
+    "県民の皆様へ": "For residents in Hyogo (in Japanese)",
     "企業の皆様・はたらく皆様へ": "For enterprises, employees and SMEs",
-    "兵庫県新型コロナウイルス感染症対策本部報": "Official statements from Tokyo COVID-19 Task Force (in Japanese)",
+    "兵庫県新型コロナウイルス感染症対策本部報": "Official statements from Hyogo COVID-19 Task Force (in Japanese)",
     "兵庫県主催等 中止又は延期するイベント等": "Cancelled or Postponed public events (in Japanese)",
-    "兵庫県公式ホームページ": "Official website of the Tokyo Metropolitan Government (in Japanese)",
+    "兵庫県公式ホームページ": "Official website of the Hyogo Metropolitan Government (in Japanese)",
     "知事からのメッセージ": "Message from Governor Koike on COVID-19 (in Japanese)",
     "当サイトについて": "About the website",
     "このサイトの内容物は": "Content on This Site is Licensed Under a",
@@ -270,12 +270,12 @@ export default {
         //        {
         //          title: this.$t('兵庫県主催等 中止又は延期するイベント等'),
         //          link:
-        //            'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event02.html'
+        //            'https://www.seisakukikaku.metro.Hyogo.lg.jp/information/event02.html'
         //        },
         //        {
         //          title: this.$t('知事からのメッセージ'),
         //          link:
-        //            'https://www.metro.tokyo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
+        //            'https://www.metro.Hyogo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
         //        },
         {
           title: this.$t('当サイトについて'),
