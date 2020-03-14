@@ -15,7 +15,7 @@
     <v-row class="DataBlock">
       <v-col cols="12" md="6" class="DataCard">
         <svg-card
-          :title="$t('検査陽性者の状況')"
+          :title="$t('兵庫県 検査陽性者の状況')"
           :title-id="'details-of-confirmed-cases'"
           :date="Data.inspections_summary.date"
         >
